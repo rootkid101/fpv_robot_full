@@ -13,8 +13,8 @@ esp.osdebug(None)
 import gc
 gc.collect()
 
-ssid = 'andreas'
-password = 'amwil1988'
+ssid = '<ENTER SSID>'
+password = '<ENTER PASSWORD'
 
 station = network.WLAN(network.STA_IF)
 
